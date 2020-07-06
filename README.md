@@ -1,5 +1,4 @@
 # Ht-rename-bot
-## Rename Bot - Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)
 ---
 
 An Open Source Rename Telegram RoBot
@@ -29,9 +28,9 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [ht Bots Updates](https://telegram.dog/ht_beats)
+* [ht Paid Apps](https://telegram.dog/ht_beats)
+* [HT BEATS Group](https://telegram.dog/ht_beats)
 
 ## Credits, and Thanks to
 
